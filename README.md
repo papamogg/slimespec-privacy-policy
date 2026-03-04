@@ -36,6 +36,7 @@ You have the following data protection rights:
 - **The Right to Withdraw Consent**: You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
 
 **Regarding In-App Purchases (RevenueCat & App Stores)**: For data processed by our third-party payment and subscription provider (RevenueCat) and the respective app stores (Apple or Google), the legal basis for processing this information is the **Performance of a Contract** (to provide you with the premium features you purchased).
+
 If you wish to exercise your rights regarding your purchase history, subscription status, or payment data, you must submit those requests directly to the Apple App Store or Google Play Store, as they are the data controllers for your financial transactions.
 
 ## 6. Children’s Privacy
@@ -43,19 +44,25 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 ## 7. Camera & Photo Library Access
 The App requires access to your device's camera to function. Here is how that access is used:
+
 **Purpose**
 The camera is used solely to capture images for storage within the App's interface.
+
 **Processing**
 All image processing happens locally on your device.
+
 **Privacy**
 We cannot see, access, or share the photos you take. They remain under your total control.
 
 ## 8. User Responsibility: Protecting Your Privacy
 While the App stores all data locally and securely on your device, we encourage you to be mindful of the information contained within the images you capture.
+
 **Redacting Personal Information**
 Before taking or storing photos of documents (such as vehicle titles, registration, or maintenance receipts), we strongly recommend redacting or "blacking out" sensitive personal details. This includes your home address, social security numbers, and financial information.
+
 **Transfer of Ownership**
 If you intend to show the App to a potential buyer or transfer your vehicle to another person, remember that any images you have stored will be visible to them if they have access to your device.
+
 **Sanitize Before Sale**
 Before handing over any records, please review your stored images and delete any that contain information you do not wish to share with the new owner.
 
@@ -64,5 +71,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## 10. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-•	**Email**: support@slimespec.com
-•	**Website**: privacy-policy.papamog.com
+- **Email**: support@slimespec.com
+- **Website**: privacy-policy.papamog.com
