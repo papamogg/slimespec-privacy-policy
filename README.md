@@ -45,7 +45,17 @@ Because SlimeSpec is built with a privacy-first, local-storage architecture, we 
 
 If you wish to exercise your California privacy rights concerning your financial transactions or subscription status, please submit those requests directly to the Apple App Store or Google Play Store, as they hold and control that data.
 
-## 6. Your Data Protection Rights Under GDPR
+## 6. Other US State Privacy Rights
+Depending on your state of residence, including but not limited to Virginia (VCDPA), Colorado (CPA), Connecticut (CTDPA), Utah (UCPA), Texas (TDPSA), and others, you may have specific rights regarding your personal data.
+
+Because SlimeSpec operates entirely on a local-storage architecture, we do not collect, process, sell, or use your personal data for targeted advertising or profiling. As a resident of these states, your rights include:
+- **The Right to Access and Data Portability**: You can access and export your data directly within the app.
+- **The Right to Correction and Deletion**: You can edit your data in the app, or permanently delete it by uninstalling the app or clearing its local cache.
+- **The Right to Opt-Out**: Because we do not sell your personal data or process it for targeted advertising, there is no need to opt-out.
+
+For requests concerning your financial and subscription data, please contact the Apple App Store or Google Play Store directly, as they process those transactions.
+
+## 7. Your Data Protection Rights Under GDPR
 If you are a resident of the European Economic Area (EEA) or the United Kingdom, you have certain data protection rights under the General Data Protection Regulation (GDPR) and the UK GDPR.
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. However, because our Service is designed with a **privacy-first, local-storage architecture**, we do not collect, store, or process your primary app data on our servers. Therefore, the way you exercise your GDPR rights is primarily handled directly on your device.
 
@@ -60,10 +70,15 @@ You have the following data protection rights:
 
 If you wish to exercise your rights regarding your purchase history, subscription status, or payment data, you must submit those requests directly to the Apple App Store or Google Play Store, as they are the data controllers for your financial transactions.
 
-## 7. Children’s Privacy
+## 8. International Privacy Rights (Including PIPEDA and LGPD)
+If you are a resident of Canada, Brazil, or other jurisdictions with comprehensive data protection laws, you are granted specific rights regarding your personal information.
+
+Consistent with our privacy-first approach, we do not collect, transfer, or store your primary app data on our servers. You maintain total control over your information locally on your device. You can exercise your rights to access, rectify, and erase your data directly through the app’s interface or by uninstalling the app from your device.
+
+## 9. Children’s Privacy
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal information (for example, through an app store purchase), please contact the respective app store to manage those transactions.
 
-## 8. Camera & Photo Library Access
+## 10. Camera & Photo Library Access
 The App requires access to your device's camera to function. Here is how that access is used:
 
 **Purpose**<br>
@@ -75,7 +90,7 @@ All image processing happens locally on your device.
 **Privacy**<br>
 We cannot see, access, or share the photos you take. They remain under your total control.
 
-## 9. User Responsibility: Protecting Your Privacy
+## 11. User Responsibility: Protecting Your Privacy
 While the App stores all data locally and securely on your device, we encourage you to be mindful of the information contained within the images you capture.
 
 **Redacting Personal Information**<br>
@@ -87,10 +102,10 @@ If you intend to show the App to a potential buyer or transfer your vehicle to a
 **Sanitize Before Sale**<br>
 Before handing over any records, please review your stored images and delete any that contain information you do not wish to share with the new owner.
 
-## 10. Changes to This Privacy Policy
+## 12. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
 
-## 11. Contact Us
+## 13. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 - **Email**: support@slimespec.com
 - **Website**: privacy-policy.papamog.com
