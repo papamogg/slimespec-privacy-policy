@@ -24,7 +24,28 @@ We do not use external analytics or crash tracking software that collects person
 ## 4. Security
 We value your trust in providing us with your information. Because your primary data is stored locally on your device, the security of that data relies heavily on your device's security protocols (such as passcode, Face ID, or fingerprint authentication). We encourage you to keep your device secure.
 
-## 5. Your Data Protection Rights Under GDPR
+## 5. Your Data Protection Rights Under CCPA, CPRA, and CalOPPA
+If you are a California resident, you are granted specific rights regarding access to your personal information under the California Consumer Privacy Act (CCPA), its amendment, the California Privacy Rights Act (CPRA), and the California Online Privacy Protection Act (CalOPPA).
+
+Because SlimeSpec is built with a privacy-first, local-storage architecture, we do not collect, store, sell, or share your primary app data.
+
+**Under the CCPA and CPRA, you have the following rights:**<br>
+- **The Right to Know**: You have the right to request information about the categories and specific pieces of personal data we have collected about you over the past 12 months. (As stated, your core data is local, and we do not collect it).
+- **The Right to Delete**: You have the right to request the deletion of your personal data. Because your data is stored locally, you can exercise this right at any time by uninstalling the app or clearing the app’s data on your device.
+- **The Right to Correct (CPRA)**: You have the right to request the correction of inaccurate personal information. You can edit any of your data directly within the SlimeSpec app.
+- **The Right to Opt-Out of Sale or Sharing**: We do not sell or share your personal data to third parties. Thus, there is no need to opt-out.
+- **The Right to Limit the Use of Sensitive Personal Information (CPRA)**: We do not collect or process sensitive personal information on our servers.
+- **The Right to Non-Discrimination**: We will not discriminate against you for exercising any of your consumer privacy rights.
+
+**Under CalOPPA, we make the following disclosures:**<br>
+- **Anonymous Access**: Users can visit our app and website anonymously.
+- **Do Not Track (DNT) Signals**: Because SlimeSpec does not track its users over time and across third-party websites to provide targeted advertising, we do not respond to Do Not Track (DNT) signals.
+- **Policy Changes**: You will be notified of any Privacy Policy changes on our Privacy Policy page.
+- **Reviewing Data**: You can review and change your personal data natively within the app interface.
+
+If you wish to exercise your California privacy rights concerning your financial transactions or subscription status, please submit those requests directly to the Apple App Store or Google Play Store, as they hold and control that data.
+
+## 6. Your Data Protection Rights Under GDPR
 If you are a resident of the European Economic Area (EEA) or the United Kingdom, you have certain data protection rights under the General Data Protection Regulation (GDPR) and the UK GDPR.
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. However, because our Service is designed with a **privacy-first, local-storage architecture**, we do not collect, store, or process your primary app data on our servers. Therefore, the way you exercise your GDPR rights is primarily handled directly on your device.
 
@@ -39,10 +60,10 @@ You have the following data protection rights:
 
 If you wish to exercise your rights regarding your purchase history, subscription status, or payment data, you must submit those requests directly to the Apple App Store or Google Play Store, as they are the data controllers for your financial transactions.
 
-## 6. Children’s Privacy
+## 7. Children’s Privacy
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal information (for example, through an app store purchase), please contact the respective app store to manage those transactions.
 
-## 7. Camera & Photo Library Access
+## 8. Camera & Photo Library Access
 The App requires access to your device's camera to function. Here is how that access is used:
 
 **Purpose**<br>
@@ -54,7 +75,7 @@ All image processing happens locally on your device.
 **Privacy**<br>
 We cannot see, access, or share the photos you take. They remain under your total control.
 
-## 8. User Responsibility: Protecting Your Privacy
+## 9. User Responsibility: Protecting Your Privacy
 While the App stores all data locally and securely on your device, we encourage you to be mindful of the information contained within the images you capture.
 
 **Redacting Personal Information**<br>
@@ -66,10 +87,10 @@ If you intend to show the App to a potential buyer or transfer your vehicle to a
 **Sanitize Before Sale**<br>
 Before handing over any records, please review your stored images and delete any that contain information you do not wish to share with the new owner.
 
-## 9. Changes to This Privacy Policy
+## 10. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
 
-## 10. Contact Us
+## 11. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 - **Email**: support@slimespec.com
 - **Website**: privacy-policy.papamog.com
