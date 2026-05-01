@@ -1,125 +1,83 @@
-# Privacy Policy for CeraSpec
-Last Updated: March 22, 2026
+## Privacy Policy for CeraSpec
+Last Updated: April 30, 2026
 
-Our top Priority is your privacy. This page is used to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
+Our top priority is your privacy. This page is used to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decides to use our Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
 
 ## 1. Information Collection and Use
-**Local Data Storage**: The core functionality of CeraSpec relies entirely on local storage. Any data, content, or preferences you create or input into the app are stored locally on your device. We do not have access to this data, nor do we transmit, store, or process this data on any external servers owned or operated by us.
-Because your data is stored locally, you maintain complete control over it. Uninstalling the app or clearing the app's cache/data from your device settings will permanently delete this locally stored data.
+To provide and improve the CeraSpec experience, we require certain personal information. The data we collect depends on how you use the app:
+- Account Information (Firebase Authentication): When you create an account, we collect your email address, password, and a unique user ID to securely manage your account and authenticate your access.
+- App Data & Content (Firebase Firestore & Storage): Information you input into the app—such as vehicle records, service details, and uploaded photos—is transmitted and stored securely on cloud servers provided by Google Firebase. This allows you to access your data across multiple devices.
+- Usage Data (Firebase Analytics): We collect anonymous or aggregated data regarding how you interact with our app (e.g., session length, features used, device type, operating system, and general location data based on IP address) to help us improve the app's performance and user experience.
 
-## 2. Third-Party Services and In-App Purchases
-While we do not collect personal data on our own servers, our app utilizes third-party services to handle in-app purchases and subscriptions. These services may collect information used to identify you, process your payments, and manage your subscription status.
-
-**RevenueCat**: We use RevenueCat to manage our in-app purchases and subscriptions. When you make a purchase, RevenueCat receives receipt data from the app store (Apple App Store or Google Play Store) to validate the purchase and grant you access to premium features. RevenueCat may collect anonymous user IDs, device information, and purchase history.
-- You can read RevenueCat's Privacy Policy here: https://www.revenuecat.com/privacy
-
-**App Stores (Apple & Google)**: All financial transactions are processed securely by the respective app stores (Apple App Store for iOS devices, Google Play Store for Android devices). We never see, collect, or store your credit card information, billing address, or payment details.
+## 2. Third-Party Services
+Our app utilizes third-party services to handle data storage, analytics, and in-app purchases. These services may collect information used to identify you, process payments, and manage your subscription.
+**Google Firebase**: We use Firebase for authentication, database hosting (Firestore), file storage (Storage), and analytics. You can read Google’s Privacy Policy here: https://policies.google.com/privacy
+**RevenueCat**: We use RevenueCat to manage in-app purchases and subscriptions. RevenueCat receives receipt data from app stores to validate purchases and may collect anonymous user IDs and purchase history. RevenueCat's Privacy Policy: https://www.revenuecat.com/privacy
+**App Stores (Apple & Google)**: All financial transactions are processed securely by the Apple App Store or Google Play Store. We never see, collect, or store your credit card information.
 - Apple Privacy Policy: https://www.apple.com/legal/privacy/
 - Google Privacy Policy: https://policies.google.com/privacy
+**Data Residency & Hosting**: All data collected through our Firebase services (Firestore, Authentication, and Storage) is hosted on Google Cloud servers. By using the Service, you acknowledge that your personal information may be transferred to, and processed in, the United States or other countries where Google maintains its facilities. We rely on Standard Contractual Clauses (SCCs) and Google’s Data Processing Addendum to ensure your data receives an equivalent level of protection regardless of where it is stored.
 
-## 3. Log Data and Analytics
-We do not use external analytics or crash tracking software that collects personally identifiable information. If the app crashes, your device's operating system may generate an anonymous crash report, which you can choose to share with us through Apple or Google's standard developer diagnostic tools.
+## 3. Log Data and Crash Reporting
+If the app crashes, we may collect log data and crash reports (which may include device IP address, device name, OS version, and the time/date of the crash) to diagnose and fix technical issues. This data is generally anonymous and used strictly for improving app stability.
+Granular Location Data: To help us understand our user base and improve regional app performance, Firebase Analytics may collect coarse location data (such as city, latitude, and longitude of the city) derived from your IP address. This data is aggregated and does not identify your exact street address. You can opt-out of this tracking by [Instruction: e.g., "disabling 'Analytics' in the app settings" or "adjusting your device's privacy permissions"]
 
 ## 4. Security
-We value your trust in providing us with your information. Because your primary data is stored locally on your device, the security of that data relies heavily on your device's security protocols (such as passcode, Face ID, or fingerprint authentication). We encourage you to keep your device secure.
+We value your trust in providing us with your information. Data transmitted to and stored within Firebase is protected using industry-standard encryption protocols (such as encryption in transit and at rest). However, remember that no method of transmission over the internet or method of electronic storage is 100% secure, and we cannot guarantee absolute security. We urge you to use a strong password and keep your device secure.
+Data Breach Procedures: In the event that personal information is compromised as a result of a breach of security, we will promptly notify those persons whose personal information has been compromised, in accordance with applicable law.
 
-## 5. Your Data Protection Rights Under CCPA, CPRA, and CalOPPA
-If you are a California resident, you are granted specific rights regarding access to your personal information under the California Consumer Privacy Act (CCPA), its amendment, the California Privacy Rights Act (CPRA), and the California Online Privacy Protection Act (CalOPPA).
+## 5. Your Data Protection Rights Under US State Laws (CCPA, CPRA, VCDPA, etc.)
+Depending on your state of residence (including California, Virginia, Colorado, Connecticut, Texas, and others), you may have specific rights regarding your personal data:
+•	The Right to Know/Access: You have the right to request information about the specific personal data we have collected about you. Effective 2026, your right to request access to your personal information is no longer limited to the preceding 12 months. You may request a report of all personal data we have collected and retained about you since January 1, 2022.
+•	The Right to Delete: You have the right to request the deletion of your personal data stored on our servers. You can request account deletion directly within the app settings or by contacting us.
+•	The Right to Correct: You can edit most of your data directly within the CeraSpec app.
+•	The Right to Opt-Out of Sale or Sharing: We do not sell your personal data to third parties.
+•	The Right to Non-Discrimination: We will not discriminate against you for exercising your privacy rights.
+Note regarding financial data: To exercise rights concerning your financial transactions or subscription status, please submit requests directly to the Apple App Store or Google Play Store.
 
-Because CeraSpec is built with a privacy-first, local-storage architecture, we do not collect, store, sell, or share your primary app data.
+## 6. Your Data Protection Rights Under GDPR and UK GDPR
+If you are a resident of the European Economic Area (EEA) or the United Kingdom, you have certain data protection rights. Our legal bases for processing your data include the Performance of a Contract (to provide core app functionalities via Firestore/Auth/Storage) and Consent (for analytics).
+•	The Right to Access, Update, or Delete: You can update your records in the app, or request complete account erasure by contacting us.
+•	The Right of Data Portability: You have the right to be provided with a copy of your personal data in a structured, machine-readable format.
+•	The Right to Withdraw Consent: You can withdraw your consent for analytics tracking via your device settings or app settings.
+•	International Data Transfers: Because our cloud provider (Google Firebase) operates globally, your data may be transferred to and processed in countries outside of the EEA (such as the United States). These transfers are protected by standard contractual clauses and appropriate safeguards.
 
-**Under the CCPA and CPRA, you have the following rights:**<br>
-- **The Right to Know**: You have the right to request information about the categories and specific pieces of personal data we have collected about you over the past 12 months. (As stated, your core data is local, and we do not collect it).
-- **The Right to Delete**: You have the right to request the deletion of your personal data. Because your data is stored locally, you can exercise this right at any time by uninstalling the app or clearing the app’s data on your device.
-- **The Right to Correct (CPRA)**: You have the right to request the correction of inaccurate personal information. You can edit any of your data directly within the CeraSpec app.
-- **The Right to Opt-Out of Sale or Sharing**: We do not sell or share your personal data to third parties. Thus, there is no need to opt-out.
-- **The Right to Limit the Use of Sensitive Personal Information (CPRA)**: We do not collect or process sensitive personal information on our servers.
-- **The Right to Non-Discrimination**: We will not discriminate against you for exercising any of your consumer privacy rights.
+## 7. International Privacy Rights (Including PIPEDA and LGPD)
+If you are a resident of Canada, Brazil, or other jurisdictions with comprehensive data protection laws, you maintain rights to access, rectify, and request the erasure of your personal data. Please contact us to exercise these rights regarding the data stored on our servers.
 
-**Under CalOPPA, we make the following disclosures:**<br>
-- **Anonymous Access**: Users can visit our app and website anonymously.
-- **Do Not Track (DNT) Signals**: Because CeraSpec does not track its users over time and across third-party websites to provide targeted advertising, we do not respond to Do Not Track (DNT) signals.
-- **Policy Changes**: You will be notified of any Privacy Policy changes on our Privacy Policy page.
-- **Reviewing Data**: You can review and change your personal data natively within the app interface.
+## 8. Data Retention and Appeals
+•	Data Retention: We retain your account information and app data (Firestore/Storage) for as long as your account is active. If you delete your account, your personal data will be purged from our active databases within a reasonable timeframe, subject to legal obligations.
+•	Right to Appeal: If you believe a data privacy request was not adequately addressed, you may appeal by contacting support@CeraSpec.com with the subject "Privacy Appeal."
 
-If you wish to exercise your California privacy rights concerning your financial transactions or subscription status, please submit those requests directly to the Apple App Store or Google Play Store, as they hold and control that data.
+## 9. Children’s Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. If we discover that a child under 13 has provided us with personal information, we will immediately delete this from our servers.
 
-## 6. Other US State Privacy Rights
-Depending on your state of residence, including but not limited to Virginia (VCDPA), Colorado (CPA), Connecticut (CTDPA), Utah (UCPA), Texas (TDPSA), and others, you may have specific rights regarding your personal data.
+## 10. Camera & Photo Library Access
+The App requires access to your device's camera and/or photo library to function.
+•	Purpose: The camera and library are used to capture or upload images (such as vehicle records or receipts) into the App.
+•	Processing & Storage: Unlike earlier versions of CeraSpec, images you upload are securely transmitted to and stored on our cloud servers (Firebase Storage) so you can access them across devices.
 
-Because CeraSpec operates entirely on a local-storage architecture, we do not collect, process, sell, or use your personal data for targeted advertising or profiling. As a resident of these states, your rights include:
-- **The Right to Access and Data Portability**: You can access and export your data directly within the app.
-- **The Right to Correction and Deletion**: You can edit your data in the app, or permanently delete it by uninstalling the app or clearing its local cache.
-- **The Right to Opt-Out**: Because we do not sell your personal data or process it for targeted advertising, there is no need to opt-out.
+## 11. User Responsibility: Protecting Your Privacy
+While we take data security seriously, we encourage you to be mindful of the information contained within the images you capture.
+•	Redacting Personal Information: Before uploading photos of documents (such as vehicle titles or registration), we strongly recommend redacting sensitive personal details, including your home address, social security numbers, and financial info.
+•	Sanitize Before Sale: If you intend to transfer your vehicle, please review your stored images and delete any that contain information you do not wish to share with the new owner.
+•	User-Generated Content and Identifiers: You are solely responsible for the information and images you upload to the Service. This includes, but is not limited to, images containing Vehicle Identification Numbers (VINs), license plate numbers, geographical locations from events, or faces. While we secure your data on our cloud servers, we do not monitor or actively redact user-uploaded content. By uploading this data, you consent to its storage on our servers.
+•	No Active Monitoring: While we implement industry-standard security measures to protect data stored on our cloud servers (Firebase), we do not actively monitor, audit, or redact user-uploaded content for PII (Personally Identifiable Information). By uploading this data, you acknowledge that it is your responsibility to ensure you have the right to share such information and that it does not violate any local privacy laws.
 
-For requests concerning your financial and subscription data, please contact the Apple App Store or Google Play Store directly, as they process those transactions.
+## 12. Business Transfers
+If CeraSpec, or substantially all of its assets, were acquired, or in the unlikely event that we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of CeraSpec may continue to use your personal information as set forth in this policy.
 
-## 7. Your Data Protection Rights Under GDPR
-If you are a resident of the European Economic Area (EEA) or the United Kingdom, you have certain data protection rights under the General Data Protection Regulation (GDPR) and the UK GDPR.
-We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. However, because our Service is designed with a **privacy-first, local-storage architecture**, we do not collect, store, or process your primary app data on our servers. Therefore, the way you exercise your GDPR rights is primarily handled directly on your device.
+## 13. No Professional Advice & Safety Warning
+•	For Information Only: All content provided through the Service is for informational and organizational purposes only. We are not a licensed automotive repair facility, and the Service does not provide professional mechanical, engineering, or safety advice.
+•	Consult a Professional: You should always consult with a certified mechanic or the vehicle manufacturer before performing modifications or maintenance. 
+•	Assumption of Risk: You acknowledge that vehicle modification and track-day activities are inherently dangerous. You assume all risk for any property damage, personal injury, or death resulting from the use of information stored or viewed within the App.
+•	No Reliance: We do not warrant the accuracy of any maintenance schedules, torque specs, or modification guides stored by you or other users.
 
-You have the following data protection rights:
-- The Right to Access, Update, or Delete: You maintain complete control over the data you input into the Service. You can access, update, or delete your information directly within the app's interface. Because we do not store this data, we cannot perform these actions for you.
-- **The Right to Erasure (Right to be Forgotten)**: You can permanently delete all your locally stored personal data by uninstalling the app from your device or clearing the app's data in your device settings.
-- **The Right of Data Portability**: [Note to Developer: Only include this bullet if your app has an export feature (like exporting to CSV/PDF/JSON).] You have the right to be provided with a copy of your personal data. You can export your data in a structured, machine-readable format using the "Export" feature within the app's settings.
-- **The Right to Rectification**: You have the right to have your information rectified if that information is inaccurate or incomplete. You can edit your data directly within the app.
-- **The Right to Withdraw Consent**: You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
+## 14. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-**Regarding In-App Purchases (RevenueCat & App Stores)**: For data processed by our third-party payment and subscription provider (RevenueCat) and the respective app stores (Apple or Google), the legal basis for processing this information is the **Performance of a Contract** (to provide you with the premium features you purchased).
-
-If you wish to exercise your rights regarding your purchase history, subscription status, or payment data, you must submit those requests directly to the Apple App Store or Google Play Store, as they are the data controllers for your financial transactions.
-
-## 8. International Privacy Rights (Including PIPEDA and LGPD)
-If you are a resident of Canada, Brazil, or other jurisdictions with comprehensive data protection laws, you are granted specific rights regarding your personal information.
-
-Consistent with our privacy-first approach, we do not collect, transfer, or store your primary app data on our servers. You maintain total control over your information locally on your device. You can exercise your rights to access, rectify, and erase your data directly through the app’s interface or by uninstalling the app from your device.
-
-## 9. Data Retention and Appeals
-**Data Retention**: Because CeraSpec stores data locally, we retain your information only as long as the app remains installed on your device. For data processed by third-party services (RevenueCat and App Stores), data is retained according to their respective retention policies to fulfill legal obligations and manage your subscriptions.
-
-**Right to Appeal**: If you have made a request regarding your data privacy and believe it was not adequately addressed, you have the right to appeal our decision. Please contact us at support@CeraSpec.com with the subject line "Privacy Appeal." We will respond to your appeal within 45 days.
-
-**Accessibility**: We are committed to making this Privacy Policy accessible to all users. If you require this policy in an alternative format, please contact us.
-
-## 10. Children’s Privacy
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal information (for example, through an app store purchase), please contact the respective app store to manage those transactions.
-
-## 11. Camera & Photo Library Access
-The App requires access to your device's camera to function. Here is how that access is used:
-
-**Purpose**<br>
-The camera is used solely to capture images for storage within the App's interface.
-
-**Processing**<br>
-All image processing happens locally on your device.
-
-**Privacy**<br>
-We cannot see, access, or share the photos you take. They remain under your total control.
-
-Again, CeraSpec uses your camera to capture vehicle records. Photos are stored locally on your device and are never uploaded to our servers or shared with third parties.
-
-## 12. User Responsibility: Protecting Your Privacy
-While the App stores all data locally and securely on your device, we encourage you to be mindful of the information contained within the images you capture.
-
-**Redacting Personal Information**<br>
-Before taking or storing photos of documents (such as vehicle titles, registration, or maintenance receipts), we strongly recommend redacting or "blacking out" sensitive personal details. This includes your home address, social security numbers, and financial information.
-
-**Transfer of Ownership**<br>
-If you intend to show the App to a potential buyer or transfer your vehicle to another person, remember that any images you have stored will be visible to them if they have access to your device.
-
-**Sanitize Before Sale**<br>
-Before handing over any records, please review your stored images and delete any that contain information you do not wish to share with the new owner.
-
-## 13. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
-
-## 14. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:<br>
-**Email**: support@CeraSpec.com<br>
-
-or hop on over in our discord server and open up a ticket with us at:<br>
-https://discord.gg/PvSxeTEg<br>
-
-Alternatively, you can view our Privacy Policy at:<br>
-https://privacy-policy.CeraSpec.com
+## 15. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+•	Email: support@papamog.com 
+•	Discord: Open a ticket with us at https://discord.gg/PvSxeTEg
+•	Web: https://privacy-policy.ceraspec.com
